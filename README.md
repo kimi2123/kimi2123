@@ -16,11 +16,11 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías, cada una con un propósito específico:
 
 - **Lenguajes de programación**  
-  - **Python:** Usado en proyectos académicos y análisis de datos como scrapping con Ruby.  
-  - **C:** Aplicado en programacion de sistemas y aprendizaje de motor de videojuegos.  
+  - **Python:** Usado en proyectos académicos y análisis de datos.  
+  - **C:** Aplicado en programación de sistemas y fundamentos de motores de videojuegos.  
   - **Java:** Desarrollo de aplicaciones de escritorio (Swing, JavaFX) y proyectos orientados a objetos.  
   - **PHP:** Manejo de backend para aplicaciones web.  
-  - **JavaScript:** Creación de interfaces dinámicas y conexión con APIs en el frontend.
+  - **JavaScript:** Creación de interfaces dinámicas y conexión con APIs en el frontend.  
 
 - **Frameworks y Librerías**  
   - **React:** Creación de interfaces web modernas y modulares (ej. Proyecto EcoAlerta).  
@@ -31,7 +31,7 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
   - **Git & GitHub:** Control de versiones y despliegue en GitHub Pages.  
   - **VSCode / NetBeans:** Principales entornos de desarrollo utilizados.  
   - **Unity:** Creación de entornos interactivos y juegos.  
-  - **Jupyter Notebook:** Experimentos y prototipado en Python.  
+  - **Jupyter Notebook:** Prototipado y pruebas en Python.  
 
 - **Bases de datos**  
   - **MySQL:** Diseño y gestión de bases de datos relacionales (ej. sistema veterinario).  
@@ -49,8 +49,8 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![ProyectoEcoAlerta1.jpg](./capturas/ProyectoEcoAlerta1.jpg)  
-![ProyectoEcoAlerta2.jpg](./capturas/ProyectoEcoAlerta2.jpg)  
+![ProyectoEcoAlerta1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoEcoAlerta1.jpg)  
+![ProyectoEcoAlerta2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoEcoAlerta2.jpg)  
 
 </details>
 
@@ -63,9 +63,9 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/Ricardo24A/POO-P3-G07)  
 
 **Evidencias:**  
-![ProyectoFeria1.jpg](./capturas/ProyectoFeria1.jpg)  
-![ProyectoFeria2.jpg](./capturas/ProyectoFeria2.jpg)  
-![ProyectoFeria3.jpg](./capturas/ProyectoFeria3.jpg)  
+![ProyectoFeria1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria1.jpg)  
+![ProyectoFeria2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria2.jpg)  
+![ProyectoFeria3](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria3.jpg)  
 
 </details>
 
@@ -78,8 +78,8 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)  
 
 **Evidencias:**  
-![ProyectoGestion1.jpg](./capturas/ProyectoGestion1.jpg)  
-![ProyectoGestion2.jpg](./capturas/ProyectoGestion2.jpg)  
+![ProyectoGestion1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion1.jpg)  
+![ProyectoGestion2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion2.jpg)  
 
 </details>
 
@@ -88,4 +88,4 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 ## 🔗 Contacto
 - 📧 Correo institucional: edarmijo@espol.edu.ec  
 - 🌐 GitHub: [https://github.com/kimi2123](https://github.com/kimi2123)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/](https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/](https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/) 
