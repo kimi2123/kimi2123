@@ -1,16 +1,46 @@
-## Hi there 👋
+# Erick Danilo Armijos Romero - Repositorio Personal
 
-<!--
-**kimi2123/kimi2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de Ingeniería de Software interesado en el area de videouegos y desarrollo web.  
+Correo institucional: edarmijo@espol.edu.ec
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Lenguajes de programación:  Python, C, Java, PHP, JavaScript.
+- Frameworks / Librerías: React, Node.js, Tailwind, TaildwindCSS.
+- Herramientas: Git, GitHub, VSCode, Neatbeans, Unity, Jupiter.
+- Otros conocimientos relevantes: Conocimiento relacionado con bases de datos como MySQL.
+
+---
+
+## Proyectos
+### [Proyecto 01 – Sistema de Gestión de Denuncias Ambientales](https://github.com/kimi2123/ecoAlerta)
+- *Estado:* Finalizado
+- *Tecnologías:* React, Node.js, PHP, TailwindCSS
+- *Descripción:*  Desarrollo de una plataforma web intuitiva que permita a los ciudadanos reportar denuncias ambientales en tiempo real, promoviendo la participación ciudadana en la protección del medio ambiente.
+- **Evidencias:**  
+![Captura 1](proyectoEcoAlerta1.png)  
+![Captura 2](ProyectoEcoAlerta2.png)  
+
+### [Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos](https://github.com/Ricardo24A/POO-P3-G07)
+- *Estado:* Finalizado 
+- *Tecnologías:* Java, JavaFX  
+- *Descripción:* Aplicación de escritorio que administra la participación de emprendedores en una feria.  
+  Permite registrar emprendedores, asignar stands, gestionar auspiciantes y secciones de la feria, así como vincular redes sociales a los participantes.
+  **Evidencias:**  
+![Captura 1](proyectoFeria1.png)  
+![Captura 2](proyectoFeria2.png)
+![Captura 2](proyectoFeria3.png)  
+
+
+### [Proyecto 03 – Sistema de Administración de Artículos Veterinarios](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)
+- *Estado:* Finalizado
+- *Tecnologías:* Java (Swing), MySQL  
+- *Descripción:* Aplicación de escritorio que gestiona artículos y procesos de una veterinaria. Incluye módulos para administrar distribuidores, productos, pedidos y facturas, con formularios de registro y consulta.  
+- *Base de datos:* MySQL utilizada para almacenar información de clientes, productos, pedidos y facturas.
+- **Evidencias:**  
+![Captura 1](ProyectoGestion1.png)  
+![Captura 2](ProyectoGestion2.png)  
+
+## GitHub Pages
