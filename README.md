@@ -11,62 +11,55 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ---
 
-## 🛠 Habilidades
-| Lenguajes | Frameworks / Librerías | Herramientas | Otros |
-|-----------|----------------------|-------------|-------|
-| Python, C, Java, PHP, JavaScript | React, Node.js, Tailwind, TailwindCSS | Git, GitHub, VSCode, NetBeans, Unity, Jupyter | Bases de datos MySQL |
+## 🛠 Tecnologías y Herramientas Aprendidas
+
+- **Lenguajes:** Python, C, Java, PHP, JavaScript  
+- **Frameworks / Librerías:** React, Node.js, Tailwind, TailwindCSS  
+- **Herramientas:** Git, GitHub, VSCode, NetBeans, Unity, Jupyter  
+- **Bases de datos:** MySQL  
 
 ---
 
 ## 📂 Proyectos
 
-<details>
-<summary><strong>Proyecto 01 – Sistema de Gestión de Denuncias Ambientales</strong> 🔗</summary>
-
+### Proyecto 01 – Sistema de Gestión de Denuncias Ambientales
 - **Estado:** Finalizado  
 - **Tecnologías:** React, Node.js, PHP, TailwindCSS  
-- **Descripción:** Desarrollo de una plataforma web intuitiva que permite a los ciudadanos reportar denuncias ambientales en tiempo real, promoviendo la participación ciudadana en la protección del medio ambiente.  
+- **Descripción:** Plataforma web que permite reportar denuncias ambientales en tiempo real.  
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoEcoAlerta1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoEcoAlerta2.jpg)  
+![ProyectoEcoAlerta1.jpg](./capturas/ProyectoEcoAlerta1.jpg)  
+![ProyectoEcoAlerta2.jpg](./capturas/ProyectoEcoAlerta2.jpg)  
 
-</details>
+---
 
-<details>
-<summary><strong>Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos</strong> 🔗</summary>
-
+### Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos
 - **Estado:** Finalizado  
 - **Tecnologías:** Java, JavaFX  
-- **Descripción:** Aplicación de escritorio que administra la participación de emprendedores en una feria. Permite registrar emprendedores, asignar stands, gestionar auspiciantes y secciones de la feria, así como vincular redes sociales a los participantes.  
+- **Descripción:** Administra la participación de emprendedores en una feria, asigna stands y gestiona auspiciantes.  
 - **Repositorio:** [GitHub](https://github.com/Ricardo24A/POO-P3-G07)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoFeria1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoFeria2.jpg)  
-![Captura 3](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoFeria3.jpg)  
+![ProyectoFeria1.jpg](./capturas/ProyectoFeria1.jpg)  
+![ProyectoFeria2.jpg](./capturas/ProyectoFeria2.jpg)  
+![ProyectoFeria3.jpg](./capturas/ProyectoFeria3.jpg)  
 
-</details>
+---
 
-<details>
-<summary><strong>Proyecto 03 – Sistema de Administración de Artículos Veterinarios</strong> 🔗</summary>
-
+### Proyecto 03 – Sistema de Administración de Artículos Veterinarios
 - **Estado:** Finalizado  
 - **Tecnologías:** Java (Swing), MySQL  
-- **Descripción:** Aplicación de escritorio que gestiona artículos y procesos de una veterinaria. Incluye módulos para administrar distribuidores, productos, pedidos y facturas, con formularios de registro y consulta.  
-- **Base de datos:** MySQL utilizada para almacenar información de clientes, productos, pedidos y facturas.  
+- **Descripción:** Gestiona artículos y procesos de una veterinaria: distribuidores, productos, pedidos y facturas.  
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoGestion1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoGestion2.jpg)  
-
-</details>
+![ProyectoGestion1.jpg](./capturas/ProyectoGestion1.jpg)  
+![ProyectoGestion2.jpg](./capturas/ProyectoGestion2.jpg)  
 
 ---
 
 ## 🔗 Contacto
 - 📧 Correo institucional: edarmijo@espol.edu.ec  
-- 🌐 GitHub: [https://github.com/kimi2123](https://github.com/kimi2123) 
+- 🌐 GitHub: [https://github.com/kimi2123](https://github.com/kimi2123)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/](https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/)
