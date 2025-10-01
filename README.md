@@ -13,16 +13,34 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ## 🛠 Tecnologías y Herramientas Aprendidas
 
-- **Lenguajes:** Python, C, Java, PHP, JavaScript  
-- **Frameworks / Librerías:** React, Node.js, Tailwind, TailwindCSS  
-- **Herramientas:** Git, GitHub, VSCode, NetBeans, Unity, Jupyter  
-- **Bases de datos:** MySQL  
+- **Lenguajes:**
+  - Python
+  - C
+  - Java
+  - PHP
+  - JavaScript
+- **Frameworks / Librerías:**
+  - React
+  - Node.js
+  - Tailwind
+  - TailwindCSS
+- **Herramientas:**
+  - Git
+  - GitHub
+  - VSCode
+  - NetBeans
+  - Unity
+  - Jupyter
+- **Bases de datos:**
+  - MySQL
 
 ---
 
 ## 📂 Proyectos
 
-### Proyecto 01 – Sistema de Gestión de Denuncias Ambientales
+<details>
+<summary><strong>Proyecto 01 – Sistema de Gestión de Denuncias Ambientales</strong> 🔗</summary>
+
 - **Estado:** Finalizado  
 - **Tecnologías:** React, Node.js, PHP, TailwindCSS  
 - **Descripción:** Plataforma web que permite reportar denuncias ambientales en tiempo real.  
@@ -32,9 +50,11 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 ![ProyectoEcoAlerta1.jpg](./capturas/ProyectoEcoAlerta1.jpg)  
 ![ProyectoEcoAlerta2.jpg](./capturas/ProyectoEcoAlerta2.jpg)  
 
----
+</details>
 
-### Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos
+<details>
+<summary><strong>Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos</strong> 🔗</summary>
+
 - **Estado:** Finalizado  
 - **Tecnologías:** Java, JavaFX  
 - **Descripción:** Administra la participación de emprendedores en una feria, asigna stands y gestiona auspiciantes.  
@@ -45,9 +65,11 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 ![ProyectoFeria2.jpg](./capturas/ProyectoFeria2.jpg)  
 ![ProyectoFeria3.jpg](./capturas/ProyectoFeria3.jpg)  
 
----
+</details>
 
-### Proyecto 03 – Sistema de Administración de Artículos Veterinarios
+<details>
+<summary><strong>Proyecto 03 – Sistema de Administración de Artículos Veterinarios</strong> 🔗</summary>
+
 - **Estado:** Finalizado  
 - **Tecnologías:** Java (Swing), MySQL  
 - **Descripción:** Gestiona artículos y procesos de una veterinaria: distribuidores, productos, pedidos y facturas.  
@@ -56,6 +78,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 **Evidencias:**  
 ![ProyectoGestion1.jpg](./capturas/ProyectoGestion1.jpg)  
 ![ProyectoGestion2.jpg](./capturas/ProyectoGestion2.jpg)  
+
+</details>
 
 ---
 
