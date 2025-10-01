@@ -49,8 +49,8 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![ProyectoEcoAlerta1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoEcoAlerta1.jpg)  
-![ProyectoEcoAlerta2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoEcoAlerta2.jpg)  
+![ProyectoEcoAlerta1](/capturas/ProyectoEcoAlerta1.jpg)  
+![ProyectoEcoAlerta2](/capturas/ProyectoEcoAlerta2.jpg)  
 
 </details>
 
@@ -63,9 +63,9 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/Ricardo24A/POO-P3-G07)  
 
 **Evidencias:**  
-![ProyectoFeria1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria1.jpg)  
-![ProyectoFeria2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria2.jpg)  
-![ProyectoFeria3](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria3.jpg)  
+![ProyectoFeria1](/capturas/ProyectoFeria1.jpg)  
+![ProyectoFeria2](/capturas/ProyectoFeria2.jpg)  
+![ProyectoFeria3](/capturas/ProyectoFeria3.jpg)  
 
 </details>
 
@@ -78,8 +78,8 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)  
 
 **Evidencias:**  
-![ProyectoGestion1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion1.jpg)  
-![ProyectoGestion2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion2.jpg)  
+![ProyectoGestion1](/capturas/ProyectoGestion1.jpg)  
+![ProyectoGestion2](/capturas/ProyectoGestion2.jpg)  
 
 </details>
 
