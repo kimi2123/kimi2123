@@ -20,8 +20,8 @@ Correo institucional: edarmijo@espol.edu.ec
 - *Tecnologías:* React, Node.js, PHP, TailwindCSS
 - *Descripción:*  Desarrollo de una plataforma web intuitiva que permita a los ciudadanos reportar denuncias ambientales en tiempo real, promoviendo la participación ciudadana en la protección del medio ambiente.
 - **Evidencias:**  
-![Captura 1](proyectoEcoAlerta1.png)  
-![Captura 2](ProyectoEcoAlerta2.png)  
+![Captura 1](proyectoEcoAlerta1.jpg)  
+![Captura 2](ProyectoEcoAlerta2.jpg)  
 
 ### [Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos](https://github.com/Ricardo24A/POO-P3-G07)
 - *Estado:* Finalizado 
@@ -29,9 +29,9 @@ Correo institucional: edarmijo@espol.edu.ec
 - *Descripción:* Aplicación de escritorio que administra la participación de emprendedores en una feria.  
   Permite registrar emprendedores, asignar stands, gestionar auspiciantes y secciones de la feria, así como vincular redes sociales a los participantes.
   **Evidencias:**  
-![Captura 1](proyectoFeria1.png)  
-![Captura 2](proyectoFeria2.png)
-![Captura 2](proyectoFeria3.png)  
+![Captura 1](proyectoFeria1.jpg)  
+![Captura 2](proyectoFeria2.jpg)
+![Captura 2](proyectoFeria3.jpg)  
 
 
 ### [Proyecto 03 – Sistema de Administración de Artículos Veterinarios](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)
@@ -40,7 +40,7 @@ Correo institucional: edarmijo@espol.edu.ec
 - *Descripción:* Aplicación de escritorio que gestiona artículos y procesos de una veterinaria. Incluye módulos para administrar distribuidores, productos, pedidos y facturas, con formularios de registro y consulta.  
 - *Base de datos:* MySQL utilizada para almacenar información de clientes, productos, pedidos y facturas.
 - **Evidencias:**  
-![Captura 1](ProyectoGestion1.png)  
-![Captura 2](ProyectoGestion2.png)  
+![Captura 1](ProyectoGestion1.jpg)  
+![Captura 2](ProyectoGestion2.jpg)  
 
 ## GitHub Pages
