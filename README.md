@@ -29,7 +29,7 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![ProyectoEcoAlerta1.jpg](capturas/ProyectoEcoAlerta1.jpg)  
+![ProyectoEcoAlerta1.jpg](ProyectoEcoAlerta1.jpg)  
 ![ProyectoEcoAlerta2.jpg](capturas/ProyectoEcoAlerta2.jpg)  
 
 ---
