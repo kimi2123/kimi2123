@@ -29,8 +29,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/proyectoEcoAlerta1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoEcoAlerta2.jpg)  
+![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoEcoAlerta1.jpg)  
+![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoEcoAlerta2.jpg)  
 
 </details>
 
@@ -43,9 +43,9 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/Ricardo24A/POO-P3-G07)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/proyectoFeria1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/proyectoFeria2.jpg)  
-![Captura 3](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoFeria3.jpg)  
+![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoFeria1.jpg)  
+![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/proyectoFeria2.jpg)  
+![Captura 3](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoFeria3.jpg)  
 
 </details>
 
@@ -59,8 +59,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)  
 
 **Evidencias:**  
-![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion1.jpg)  
-![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/main/capturas/ProyectoGestion2.jpg)  
+![Captura 1](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoGestion1.jpg)  
+![Captura 2](https://raw.githubusercontent.com/kimi2123/kimi2123/capturas/ProyectoGestion2.jpg)  
 
 </details>
 
