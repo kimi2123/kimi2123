@@ -40,8 +40,7 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 
 ## 📂 Proyectos
 
-<details>
-<summary><strong>Proyecto 01 – Sistema de Gestión de Denuncias Ambientales</strong> 🔗</summary>
+<strong>Proyecto 01 – Sistema de Gestión de Denuncias Ambientales</strong> 
 
 - **Estado:** Finalizado  
 - **Tecnologías:** React, Node.js, PHP, TailwindCSS  
@@ -52,10 +51,7 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 ![ProyectoEcoAlerta1](/capturas/ProyectoEcoAlerta1.jpg)  
 ![ProyectoEcoAlerta2](/capturas/ProyectoEcoAlerta2.jpg)  
 
-</details>
-
-<details>
-<summary><strong>Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos</strong> 🔗</summary>
+<strong>Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos</strong>
 
 - **Estado:** Finalizado  
 - **Tecnologías:** Java, JavaFX  
@@ -67,10 +63,7 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 ![ProyectoFeria2](/capturas/ProyectoFeria2.jpg)  
 ![ProyectoFeria3](/capturas/ProyectoFeria3.jpg)  
 
-</details>
-
-<details>
-<summary><strong>Proyecto 03 – Sistema de Administración de Artículos Veterinarios</strong> 🔗</summary>
+<strong>Proyecto 03 – Sistema de Administración de Artículos Veterinarios</strong> 
 
 - **Estado:** Finalizado  
 - **Tecnologías:** Java (Swing), MySQL  
@@ -81,7 +74,7 @@ A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías,
 ![ProyectoGestion1](/capturas/ProyectoGestion1.jpg)  
 ![ProyectoGestion2](/capturas/ProyectoGestion2.jpg)  
 
-</details>
+
 
 ---
 
