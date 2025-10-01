@@ -13,26 +13,28 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ## 🛠 Tecnologías y Herramientas Aprendidas
 
-- **Lenguajes:**
-  - Python
-  - C
-  - Java
-  - PHP
-  - JavaScript
-- **Frameworks / Librerías:**
-  - React
-  - Node.js
-  - Tailwind
-  - TailwindCSS
-- **Herramientas:**
-  - Git
-  - GitHub
-  - VSCode
-  - NetBeans
-  - Unity
-  - Jupyter
-- **Bases de datos:**
-  - MySQL
+A lo largo del curso y en mis proyectos he trabajado con distintas tecnologías, cada una con un propósito específico:
+
+- **Lenguajes de programación**  
+  - **Python:** Usado en proyectos académicos y análisis de datos como scrapping con Ruby.  
+  - **C:** Aplicado en programacion de sistemas y aprendizaje de motor de videojuegos.  
+  - **Java:** Desarrollo de aplicaciones de escritorio (Swing, JavaFX) y proyectos orientados a objetos.  
+  - **PHP:** Manejo de backend para aplicaciones web.  
+  - **JavaScript:** Creación de interfaces dinámicas y conexión con APIs en el frontend.
+
+- **Frameworks y Librerías**  
+  - **React:** Creación de interfaces web modernas y modulares (ej. Proyecto EcoAlerta).  
+  - **Node.js:** Desarrollo del servidor y lógica backend en aplicaciones web.  
+  - **TailwindCSS:** Diseño responsivo y estilización rápida de páginas web.  
+
+- **Herramientas de desarrollo**  
+  - **Git & GitHub:** Control de versiones y despliegue en GitHub Pages.  
+  - **VSCode / NetBeans:** Principales entornos de desarrollo utilizados.  
+  - **Unity:** Creación de entornos interactivos y juegos.  
+  - **Jupyter Notebook:** Experimentos y prototipado en Python.  
+
+- **Bases de datos**  
+  - **MySQL:** Diseño y gestión de bases de datos relacionales (ej. sistema veterinario).  
 
 ---
 
