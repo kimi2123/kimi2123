@@ -31,7 +31,7 @@ Correo institucional: edarmijo@espol.edu.ec
   **Evidencias:**  
 ![Captura 1](proyectoFeria1.jpg)  
 ![Captura 2](proyectoFeria2.jpg)
-![Captura 2](proyectoFeria3.jpg)  
+![Captura 3](proyectoFeria3.jpg)  
 
 
 ### [Proyecto 03 – Sistema de Administración de Artículos Veterinarios](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)
