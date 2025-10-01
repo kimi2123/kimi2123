@@ -68,5 +68,5 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ## 🔗 Contacto
 - 📧 Correo institucional: edarmijo@espol.edu.ec  
-- 🌐 GitHub: [https://github.com/kimi2123]((https://github.com/kimi2123))  
+- 🌐 GitHub: [https://github.com/kimi2123](https://github.com/kimi2123) 
 - 💼 LinkedIn: [https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/](https://www.linkedin.com/in/erick-danilo-armijos-romero-84a348277/)
