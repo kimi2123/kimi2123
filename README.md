@@ -20,7 +20,7 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ## 📂 Proyectos
 
-<details>
+
 <summary><strong>Proyecto 01 – Sistema de Gestión de Denuncias Ambientales</strong> 🔗</summary>
 
 - **Estado:** Finalizado  
@@ -32,9 +32,9 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 ![Captura 1](/capturas/proyectoEcoAlerta1.jpg)  
 ![Captura 2](/capturas/ProyectoEcoAlerta2.jpg)  
 
-</details>
 
-<details>
+
+
 <summary><strong>Proyecto 02 – Sistema de Gestión de Stands para una Feria de Emprendimientos</strong> 🔗</summary>
 
 - **Estado:** Finalizado  
@@ -47,9 +47,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 ![Captura 2](/capturas/proyectoFeria2.jpg)  
 ![Captura 3](/capturas/ProyectoFeria3.jpg)  
 
-</details>
 
-<details>
+
 <summary><strong>Proyecto 03 – Sistema de Administración de Artículos Veterinarios</strong> 🔗</summary>
 
 - **Estado:** Finalizado  
@@ -62,7 +61,7 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 ![Captura 1](/capturas/ProyectoGestion1.jpg)  
 ![Captura 2](/capturas/ProyectoGestion2.jpg)  
 
-</details>
+
 
 ---
 
