@@ -66,8 +66,6 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 
 ---
 
-## 🌐 GitHub Pages
-
 ## 🔗 Contacto
 - 📧 Correo institucional: edarmijo@espol.edu.ec  
 - 🌐 GitHub: [https://github.com/kimi2123]((https://github.com/kimi2123))  
