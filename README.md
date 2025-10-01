@@ -29,8 +29,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ecoAlerta)  
 
 **Evidencias:**  
-![ProyectoEcoAlerta1.jpg](capturas/ProyectoEcoAlerta1.jpg)  
-![ProyectoEcoAlerta2.jpg](capturas/ProyectoEcoAlerta2.jpg)  
+![ProyectoEcoAlerta1.jpg](/capturas/ProyectoEcoAlerta1.jpg)  
+![ProyectoEcoAlerta2.jpg](/capturas/ProyectoEcoAlerta2.jpg)  
 
 ---
 
@@ -41,9 +41,9 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/Ricardo24A/POO-P3-G07)  
 
 **Evidencias:**  
-![ProyectoFeria1.jpg](capturas/ProyectoFeria1.jpg)  
-![ProyectoFeria2.jpg](capturas/ProyectoFeria2.jpg)  
-![ProyectoFeria3.jpg](capturas/ProyectoFeria3.jpg)  
+![ProyectoFeria1.jpg](/capturas/ProyectoFeria1.jpg)  
+![ProyectoFeria2.jpg](/capturas/ProyectoFeria2.jpg)  
+![ProyectoFeria3.jpg](/capturas/ProyectoFeria3.jpg)  
 
 ---
 
@@ -54,8 +54,8 @@ Soy estudiante de **Ingeniería de Software** interesado en el área de **videoj
 - **Repositorio:** [GitHub](https://github.com/kimi2123/ProyectoSistemasDeBasesDeDatos)  
 
 **Evidencias:**  
-![ProyectoGestion1.jpg](capturas/ProyectoGestion1.jpg)  
-![ProyectoGestion2.jpg](capturas/ProyectoGestion2.jpg)  
+![ProyectoGestion1.jpg](/capturas/ProyectoGestion1.jpg)  
+![ProyectoGestion2.jpg](/capturas/ProyectoGestion2.jpg)  
 
 ---
 
